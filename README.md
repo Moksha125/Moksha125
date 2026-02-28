@@ -4,11 +4,10 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/AhmedMamdouh" alt="Workspace" width="40%"/><br>
 
 <details>
-<p><strong> <summary>  Busy training models & Vibing to :   </summary> </strong></p>
+<p><strong> <summary> Machine Learning & Data Analysis
+Python • ML • Data Analysis :   </summary> </strong></p>
 
 </details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedMamdouh&style=flat&color=orange&label=PROFILE+VIEWS)
 
 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧🔵 [![LinkedIn](https://img.shields.io/badge/Ahmed_Mamdouh-blue?style=flat&logo=linkedin)](https://linkedin.com)
 
