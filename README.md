@@ -4,8 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/AhmedMamdouh" alt="Workspace" width="40%"/><br>
 
 <details>
-<p><strong> <summary> Machine Learning & Data Analysis
-Python • ML • Data Analysis :   </summary> </strong></p>
+<p><strong> <summary> Machine Learning & ML • Data Analysis • Python  :   </summary> </strong></p>
 
 </details>
 
