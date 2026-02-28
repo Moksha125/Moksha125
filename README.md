@@ -1,78 +1,96 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/>
-
-# Hi 👋 I'm Ahmed Mamdouh  
+# Ahmed Mamdouh
 ### Machine Learning Engineer | Data Analyst | AI Student
 
-💡 Turning data into insights & models into real-world solutions  
-📊 Passionate about AI, Data Science & Problem Solving  
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=blue)
+Building intelligent systems powered by data.  
+Turning complex datasets into scalable ML solutions.
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-- 🎓 AI Student at Faculty of Computers & Information  
-- 🤖 Machine Learning Engineer focused on building predictive models  
-- 📊 Data Analyst who transforms raw data into meaningful insights  
-- 🧠 Interested in Deep Learning, Computer Vision & NLP  
-- 💬 Ask me about Machine Learning, Data Analysis, or AI Projects  
+Machine Learning Engineer and Data Analyst with strong foundations in Artificial Intelligence, data modeling, and statistical analysis.  
+Experienced in building end-to-end ML pipelines, performing advanced data analysis, and extracting actionable insights from real-world datasets.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Core Expertise
 
-### 👨‍💻 Programming & Analysis
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat)
-
-### 📈 Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+- Machine Learning Model Development  
+- Data Cleaning & Preprocessing  
+- Feature Engineering  
+- Model Evaluation & Optimization  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization & Business Insights  
+- SQL & Database Querying  
 
 ---
 
-## 📌 Current Focus
+## 🛠 Technical Stack
 
-- 🔍 Improving Model Accuracy & Feature Engineering  
-- 🧠 Building End-to-End ML Projects  
-- 📊 Advanced Data Visualization  
-- 🚀 Preparing for real-world AI roles  
+### Programming
+- Python  
+- SQL  
+- C++  
+
+### Data & Machine Learning
+- Pandas  
+- NumPy  
+- Scikit-Learn  
+- TensorFlow  
+- Matplotlib  
+- Seaborn  
+
+### Tools & Platforms
+- Git & GitHub  
+- Jupyter Notebook  
+- Power BI  
+- VS Code  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Selected Projects
+
+### 🔹 Machine Learning Project
+Developed a predictive model with full pipeline (data preprocessing → training → evaluation → deployment-ready structure).
+
+### 🔹 Data Analysis Project
+Performed comprehensive EDA on large dataset (30K+ records), extracted KPIs, and delivered business-driven insights.
+
+### 🔹 AI-Based System
+Designed an intelligent solution applying ML concepts to solve a real-world problem.
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" width="40%">
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Focus
 
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 📧 Email: your_email@example.com
-- 🌍 Portfolio: Your Portfolio Link
+- Advanced Machine Learning Techniques  
+- Deep Learning & Neural Networks  
+- Model Deployment & MLOps  
+- Real-world AI Applications  
 
 ---
 
-### ⚡ Fun Fact
-I enjoy turning complex datasets into clear business decisions.
+## 🌐 Contact
+
+- LinkedIn: [Add Your Link]
+- Email: your_email@example.com
+- Portfolio: Add Your Portfolio Link
+
+---
+
+> “Data is powerful. Insight is transformative. Intelligence is engineered.”
