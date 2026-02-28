@@ -6,12 +6,10 @@
 <details>
 <p><strong> <summary>  Busy training models & Vibing to :   </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedMamdouh&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/Ahmed_Mamdouh-blue?style=flat&logo=linkedin)](https://linkedin.com)
+width="12" height="12"[![LinkedIn](https://img.shields.io/badge/Ahmed_Mamdouh-blue?style=flat&logo=linkedin)](https://linkedin.com)
 
 </div>
 
