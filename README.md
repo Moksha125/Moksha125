@@ -9,7 +9,7 @@
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedMamdouh&style=flat&color=orange&label=PROFILE+VIEWS)
-width="12" height="12"[![LinkedIn](https://img.shields.io/badge/Ahmed_Mamdouh-blue?style=flat&logo=linkedin)](https://linkedin.com)
+ 𝐢𝐧🔹[![LinkedIn](https://img.shields.io/badge/Ahmed_Mamdouh-blue?style=flat&logo=linkedin)](https://linkedin.com)
 
 </div>
 
