@@ -1,7 +1,8 @@
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=60&weight=700&pause=1000&color=4F57B5&center=true&vCenter=true&width=900&height=150&lines=Hello+Coders+%F0%9F%91%8B;I'm+Ahmed+Mamdouh+%F0%9F%9A%80" alt="Typing SVG" />
 <br>
-    
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/AhmedMamdouh" alt="Workspace" width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/AhmedMamdouh" alt="Workspace" width="60%"/><br>
+</div>
     
 <details>
 <p><strong> <summary> Machine Learning & ML • Data Analysis • Python  :   </summary> </strong></p>
