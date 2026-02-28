@@ -44,16 +44,11 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -64,13 +59,13 @@ me.say_hi()
 
 ```python
 toolbox = {
-    "Languages"      : ["Python", "SQL", "Bash"],
-    "ML Libraries"   : ["Scikit-learn", "TensorFlow", "Keras", "XGBoost"],
-    "Data Analysis"  : ["Pandas", "NumPy", "SciPy"],
-    "Visualization"  : ["Matplotlib", "Seaborn", "Plotly", "Power BI"],
-    "Databases"      : ["PostgreSQL", "SQLite", "Firebase"],
-    "Dev Tools"      : ["Jupyter", "VS Code", "Git", "Flask"],
-    "Platforms"      : ["Linux", "Windows", "Google Colab"],
+    "Languages"      : ["Python", "SQL", "C++"],
+    "ML Libraries"   : ["Scikit-learn", "TensorFlow","XGBoost"],
+    "Data Analysis"  : ["Pandas", "NumPy",],
+    "Visualization"  : ["Matplotlib", "Seaborn","Power BI"],
+    "Databases"      : ["PostgreSQL", "SQLite",],
+    "Dev Tools"      : ["Jupyter", "VS Code", "Git"],
+    "Platforms"      : [ "Windows", "Google Colab"],
 }
 ```
 
