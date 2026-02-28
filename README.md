@@ -10,8 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedMamdouh&style=flat&color=orange&label=PROFILE+VIEWS)
 
-
-                                             | 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧🔵
+                                                          𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧🔵
  [![LinkedIn](https://img.shields.io/badge/Ahmed_Mamdouh-blue?style=flat&logo=linkedin)](https://linkedin.com)
 
 </div>
